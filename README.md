@@ -57,7 +57,7 @@ Pacote de funções matemáticas para prática em Java.
 
 ## 📫 Como me encontrar
 🔗 LinkedIn: https://www.linkedin.com/in/enzo-anthony  
-📧 Email: *coloque seu email aqui*  
+📧 Email: enzo252606@gmail.com  
 🌐 GitHub: https://github.com/EnzoAnthony006
 
 ---
