@@ -44,7 +44,7 @@ Atualmente focado em **Java**, **POO** e **desenvolvimento backend**, com estudo
 ---
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoAnthony006&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoAnthony006&show_icons=true&count_private=true)
 
 ---
 
