@@ -86,4 +86,4 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 
 - 💼 LinkedIn: https://www.linkedin.com/in/enzo-anthony/
 - 💻 GitHub: https://github.com/EnzoAnthony006
-- 📧 E-mail: enzoanthony.dev@gmail.com
+- 📧 E-mail: enzo252606@gmail.com
