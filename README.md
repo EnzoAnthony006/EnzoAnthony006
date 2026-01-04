@@ -5,8 +5,8 @@
 ☁️ **Cloud Computing com AWS**
 
 Sou estudante de Sistemas de Informação com foco em **desenvolvimento backend** e **computação em nuvem**.  
-Desenvolvo projetos em **Java**, aplicando **Programação Orientada a Objetos**, lógica de negócio e boas práticas de versionamento com **Git e GitHub**.  
-Atualmente estudo e pratico serviços da **AWS**, com foco em fundamentos de cloud, migração e segurança.
+Desenvolvo projetos em **Java**, aplicando **Programação Orientada a Objetos**, lógica de negócio e arquitetura em camadas, além de boas práticas de versionamento com **Git e GitHub**.  
+Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo arquitetura, migração e segurança.
 
 ---
 
@@ -22,7 +22,7 @@ Atualmente estudo e pratico serviços da **AWS**, com foco em fundamentos de clo
 - Collections, Streams e manipulação de dados
 - JDBC e persistência
 - Arquitetura em camadas (MVC)
-- Lógica de programação
+- Lógica de programação e regras de negócio
 
 ---
 
@@ -31,13 +31,13 @@ Atualmente estudo e pratico serviços da **AWS**, com foco em fundamentos de clo
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
-- Amazon EC2  
-- Amazon S3  
-- Amazon VPC  
-- AWS IAM  
-- Fundamentos de redes em nuvem  
-- Cloud Adoption Framework (CAF)  
-- Estratégias de migração (7R’s)  
+- Amazon EC2
+- Amazon S3
+- Amazon VPC
+- AWS IAM
+- Fundamentos de redes em nuvem
+- Cloud Adoption Framework (CAF)
+- Estratégias de migração (7R’s)
 - Segurança em Cloud Computing  
   (Shared Responsibility Model, NIST CSF)
 
@@ -61,7 +61,7 @@ Atualmente estudo e pratico serviços da **AWS**, com foco em fundamentos de clo
 - AWS Cloud Practitioner Essentials  
 - AWS Technical Essentials  
 - Cloud Adoption Framework (CAF) e Estratégias de Migração (7R’s)  
-- Segurança em Cloud Computing  
+- Segurança em Cloud Computing (NIST CSF, Shared Responsibility Model)  
 - Java Programmer I, II e III  
 - Versionamento de Código com Git e GitHub  
 - Bootcamp **DIO – CI&T Backend com Java & AWS** *(em andamento)*  
@@ -74,7 +74,7 @@ Atualmente estudo e pratico serviços da **AWS**, com foco em fundamentos de clo
   Projeto completo aplicando POO, arquitetura em camadas, persistência e regras de negócio.
 
 - 🏦 **Sistema Bancário em Java**  
-  Projeto focado em lógica de negócio e boas práticas em Java.
+  Projeto focado em lógica de negócio, orientação a objetos e boas práticas de desenvolvimento.
 
 - ☁️ **AWS Cloud Studies**  
   Repositório com estudos, anotações, labs e evidências práticas em AWS.  
@@ -82,14 +82,8 @@ Atualmente estudo e pratico serviços da **AWS**, com foco em fundamentos de clo
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoAnthony006&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAnthony006&layout=compact)
-
----
-
 ## 🌐 Contato
 
 - 💼 LinkedIn: https://www.linkedin.com/in/enzo-anthony/
 - 💻 GitHub: https://github.com/EnzoAnthony006
+- 📧 E-mail: enzoanthony.dev@gmail.com
