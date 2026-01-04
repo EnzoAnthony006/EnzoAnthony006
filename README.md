@@ -1,65 +1,95 @@
-# 👋 Olá, eu sou Enzo Anthony
+## 👋 Olá, eu sou o Enzo Anthony
 
-💻 **Estudante de Sistemas da Informação | Desenvolvimento Backend | Java | AWS (básico)**
+🎓 Estudante de **Sistemas de Informação**  
+💻 Foco em **Desenvolvimento Backend (Java)**  
+☁️ **Cloud Computing com AWS**
+
+Sou estudante de Sistemas de Informação com foco em **desenvolvimento backend** e **computação em nuvem**.  
+Desenvolvo projetos em **Java**, aplicando **Programação Orientada a Objetos**, lógica de negócio e boas práticas de versionamento com **Git e GitHub**.  
+Atualmente estudo e pratico serviços da **AWS**, com foco em fundamentos de cloud, migração e segurança.
 
 ---
 
-## 🚀 Sobre mim
-Sou apaixonado por **tecnologia** e estou sempre aprendendo e aplicando meus conhecimentos em **projetos práticos**.  
-Atualmente focado em **Java**, **Programação Orientada a Objetos (POO)** e **desenvolvimento backend**, com estudos em **Python** e **Cloud Computing (AWS – básico)**.
+## 🚀 Tecnologias e Conhecimentos
 
----
+### 🖥️ Backend & Linguagens
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-## 🛠️ Linguagens e Tecnologias
-
-### 💻 Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-### 📚 Conceitos
 - Programação Orientada a Objetos (POO)
-- Lógica de Programação
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)  
-**Nível:** Básico
-
----
-
-## 💼 Meus Projetos
-
-### Estacionamento 🚗
-🔗 https://github.com/EnzoAnthony006/Estacionamento  
-📌 Sistema de gerenciamento de estacionamento em **Java**, aplicando **POO**, regras de negócio e cálculo de tempo e valor.
+- Classes, Interfaces, Herança e Polimorfismo
+- Collections, Streams e manipulação de dados
+- JDBC e persistência
+- Arquitetura em camadas (MVC)
+- Lógica de programação
 
 ---
 
-### 🏦 Sistema Bancário
-🔗 https://github.com/EnzoAnthony006/SistemaBancario  
-📌 Simulação de operações bancárias utilizando **Java**, **coleções (List/Map)** e conceitos de **Programação Orientada a Objetos**.
+### ☁️ Cloud Computing / AWS
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
+- Amazon EC2  
+- Amazon S3  
+- Amazon VPC  
+- AWS IAM  
+- Fundamentos de redes em nuvem  
+- Cloud Adoption Framework (CAF)  
+- Estratégias de migração (7R’s)  
+- Segurança em Cloud Computing  
+  (Shared Responsibility Model, NIST CSF)
 
 ---
 
-### 🧾 Sistema de Cadastro
-🔗 https://github.com/EnzoAnthony006/SistemaDeCadastro  
-📌 Aplicação CRUD básica em **Java** para cadastro e gerenciamento de produtos, focada em **lógica de programação**.
+### 🔧 Versionamento de Código
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+- Controle de versões
+- Branches, merge e resolução de conflitos
+- Autenticação via SSH e Token
+- Versionamento colaborativo
 
 ---
 
-### 🧮 MathSuite
-🔗 https://github.com/EnzoAnthony006/Sistema.Mathsuite  
-📌 Biblioteca de funções matemáticas desenvolvida em **Java**, reforçando fundamentos da linguagem e organização de código.
+## 🏆 Certificações e Formações
+
+- AWS Cloud Practitioner Essentials  
+- AWS Technical Essentials  
+- Cloud Adoption Framework (CAF) e Estratégias de Migração (7R’s)  
+- Segurança em Cloud Computing  
+- Java Programmer I, II e III  
+- Versionamento de Código com Git e GitHub  
+- Bootcamp **DIO – CI&T Backend com Java & AWS** *(em andamento)*  
 
 ---
 
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoAnthony006&show_icons=true&count_private=true)
+## 📂 Projetos em Destaque
+
+- 🚗 **Sistema de Estacionamento em Java**  
+  Projeto completo aplicando POO, arquitetura em camadas, persistência e regras de negócio.
+
+- 🏦 **Sistema Bancário em Java**  
+  Projeto focado em lógica de negócio e boas práticas em Java.
+
+- ☁️ **AWS Cloud Studies**  
+  Repositório com estudos, anotações, labs e evidências práticas em AWS.  
+  👉 https://github.com/EnzoAnthony006/-AWS-Cloud-Studies-
 
 ---
 
-## 📫 Vamos nos conectar!
+## 📊 Estatísticas GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-anthony)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EnzoAnthony006)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:enzo252606@gmail.com)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EnzoAnthony006&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAnthony006&layout=compact)
+
+---
+
+## 🌐 Contato
+
+- 💼 LinkedIn: https://www.linkedin.com/in/enzo-anthony/
+- 💻 GitHub: https://github.com/EnzoAnthony006
