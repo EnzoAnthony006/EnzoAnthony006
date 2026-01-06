@@ -64,7 +64,8 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 - Segurança em Cloud Computing (NIST CSF, Shared Responsibility Model)  
 - Java Programmer I, II e III  
 - Versionamento de Código com Git e GitHub  
-- Bootcamp **DIO – CI&T Backend com Java & AWS** *(em andamento)*  
+- Bootcamp **DIO – CI&T Backend com Java & AWS** *(em andamento)*
+- Fundamentos da Linguagem de Programação Java
 
 ---
 
