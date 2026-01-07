@@ -73,9 +73,11 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 
 - 🚗 **Sistema de Estacionamento em Java**  
   Projeto completo aplicando POO, arquitetura em camadas, persistência e regras de negócio.
+  👉https://github.com/EnzoAnthony006/Estacionamento
 
 - 🏦 **Sistema Bancário em Java**  
   Projeto focado em lógica de negócio, orientação a objetos e boas práticas de desenvolvimento.
+  👉https://github.com/EnzoAnthony006/SistemaBancario
 
 - ☁️ **AWS Cloud Studies**  
   Repositório com estudos, anotações, labs e evidências práticas em AWS.  
