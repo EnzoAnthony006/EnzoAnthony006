@@ -64,6 +64,8 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, com experi
 
 ## 🏆 Certificações e Formações (selecionadas)
 
+[![AWS Cloud Practitioner](https://images.credly.com/size/110x110/images/6840f5b3-9d3b-45c1-bf61-35a7bb1d56cf/aws-certified-cloud-practitioner.png)](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile)
+
 - **Fundamentos da Linguagem de Programação Java**
 - **Java Programmer I, II e III**
 - **AWS Cloud Practitioner Essentials**
