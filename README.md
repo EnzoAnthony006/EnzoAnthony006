@@ -1,3 +1,10 @@
+
+## 📊 Minhas Estatísticas do GitHub
+
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EnzoAnthony006&show_icons=true&theme=radical)
+
+
+
 # 👋 Olá, eu sou o Enzo Anthony
 
 🎓 Estudante de **Sistemas de Informação**  
