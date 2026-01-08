@@ -7,7 +7,7 @@
 Sou estudante de Sistemas de Informação com foco em **desenvolvimento backend** e **computação em nuvem**.  
 Desenvolvo projetos em **Java**, aplicando **POO**, lógica de negócio e **arquitetura em camadas (MVC)**, além de boas práticas de **versionamento com Git/GitHub**.  
 
-Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo **infraestrutura como código, DevOps, alta disponibilidade, escalabilidade e segurança**, com laboratórios práticos e projetos reais.
+Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo **AWS Solutions**, **infraestrutura como código**, **DevOps**, **alta disponibilidade**, **escalabilidade**, **segurança** e **papéis profissionais na nuvem**, por meio de laboratórios práticos e projetos de estudo.
 
 ---
 
@@ -35,15 +35,23 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 
 - Amazon EC2, Auto Scaling Groups e Elastic Load Balancing (ALB)
 - Alta disponibilidade com múltiplas Availability Zones
-- Amazon VPC, Subnets e Security Groups
+- Amazon VPC, Subnets, Route Tables e Security Groups
 - Amazon S3, EBS e EFS
 - Amazon RDS e DynamoDB (NoSQL – Key/Value)
-- AWS IAM e Shared Responsibility Model
+- AWS IAM, políticas e Shared Responsibility Model
 - Amazon CloudWatch (monitoramento básico)
-- Fundamentos de redes, custos e economia na nuvem
+- Fundamentos de custos, precificação e economia na nuvem
 - Cloud Adoption Framework (CAF) e Estratégias de Migração (7R’s)
-- Infraestrutura como Código e práticas DevOps
-- Job Roles in the Cloud: funções e responsabilidades na nuvem
+- Infraestrutura como Código (IaC) com **AWS CloudFormation**
+- Uso do **AWS Management Console, AWS CLI e AWS APIs**
+- Práticas de DevOps aplicadas à nuvem
+- **Job Roles in the Cloud**: arquiteto, engenheiro de operações, DevOps, segurança e desenvolvimento de aplicações em nuvem
+- **AWS Solutions**:
+  - **AWS Solutions Reference Architectures** como base para desenho de soluções
+  - **AWS Solutions Implementations** para implantações automatizadas e prontas para uso
+  - **AWS Solutions Constructs (CDK)** para composição de arquiteturas bem definidas com padrões reutilizáveis
+  - **AWS Professional Services & Partner Offers** para suporte, migração e aceleração da adoção em nuvem
+- Separação de responsabilidades entre equipes (linha vermelha de separação)
 
 ---
 
@@ -68,8 +76,9 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 - **AWS Cloud Practitioner Essentials**  
 - **AWS Cloud Quest: Cloud Practitioner – Training Badge**  
 - **AWS Technical Essentials**  
-- **Official Practice Question Set: AWS Certified Cloud Practitioner**  
-- **Segurança em Cloud-Computing (FIA)**  
+- **Introduction to AWS Solutions**  
+- **Job Roles in the Cloud (AWS Training)**  
+- **Segurança em Cloud Computing (FIA)**  
 - **Fundamentos da Linguagem de Programação Java (DIO)**  
 - **Versionamento de Código com Git e GitHub (DIO)**  
 - **Criando uma Aplicação Completa (Impacta)**  
@@ -81,20 +90,20 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 
 - 🚗 **Sistema de Estacionamento em Java**  
   Projeto completo aplicando **POO**, **arquitetura MVC**, **persistência de dados** e **regras de negócio**.  
-  👉 [GitHub](https://github.com/EnzoAnthony006/Estacionamento)
+  👉 https://github.com/EnzoAnthony006/Estacionamento
 
 - 🏦 **Sistema Bancário em Java**  
   Projeto focado em **lógica de negócio**, **orientação a objetos** e **boas práticas de desenvolvimento**.  
-  👉 [GitHub](https://github.com/EnzoAnthony006/SistemaBancario)
+  👉 https://github.com/EnzoAnthony006/SistemaBancario
 
 - ☁️ **AWS Cloud Studies**  
-  Repositório com **estudos, anotações e laboratórios práticos em AWS**.  
-  👉 [GitHub](https://github.com/EnzoAnthony006/-AWS-Cloud-Studies-)
+  Repositório com **estudos, anotações e laboratórios práticos em AWS**, incluindo **AWS Solutions, arquiteturas de referência, implementações, constructs, segurança, custos e papéis profissionais na nuvem**.  
+  👉 https://github.com/EnzoAnthony006/-AWS-Cloud-Studies-
 
 ---
 
 ## 🌐 Contato
 
-- 💼 LinkedIn: [linkedin.com/in/enzo-anthony](https://www.linkedin.com/in/enzo-anthony/)  
-- 💻 GitHub: [github.com/EnzoAnthony006](https://github.com/EnzoAnthony006)  
+- 💼 LinkedIn: https://www.linkedin.com/in/enzo-anthony/  
+- 💻 GitHub: https://github.com/EnzoAnthony006  
 - 📧 E-mail: enzo252606@gmail.com
