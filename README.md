@@ -28,7 +28,7 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 
 ### ☁️ Cloud Computing / AWS
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
-![AWS Cloud Quest Badge](assets/aws-cloud-quest-badge.png)
+
 - Amazon EC2, Auto Scaling e Application Load Balancer
 - Amazon S3, EBS e conceitos de armazenamento
 - Amazon VPC, Subnets e Security Groups
@@ -47,10 +47,13 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 - Job Roles in the Cloud
 - Fundamentos de DevOps e Infraestrutura como Código
 
+**Certificação AWS Cloud Quest:**  
+[AWS Cloud Quest: Cloud Practitioner – Training Badge](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile)
+
 ---
 
 ### 🔧 Versionamento de Código
-<img src="assets/git.png" alt="Git Logo" width="60"/>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 - Git (controle de versões)
 - GitHub (repositórios, branches e colaboração)
 - Versionamento colaborativo
@@ -74,10 +77,6 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 
 - **Getting Started with DevOps on AWS**  
   Fundamentos de DevOps, cultura, práticas, ferramentas AWS e adoção na Amazon
-
-- **AWS Cloud Quest: Cloud Practitioner – Training Badge**  
-  Badge oficial da Credly para AWS Cloud Quest  
-  ![AWS Cloud Quest Badge](assets/aws-cloud-quest-badge.png)
 
 ---
 
