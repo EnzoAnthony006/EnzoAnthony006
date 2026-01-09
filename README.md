@@ -7,13 +7,14 @@
 Sou estudante de Sistemas de Informação com foco em **desenvolvimento backend** e **computação em nuvem**.  
 Desenvolvo projetos em **Java**, aplicando **Programação Orientada a Objetos (POO)**, **lógica de negócio** e **arquitetura em camadas (MVC)**, além de boas práticas de **versionamento com Git e GitHub**.
 
-Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo **infraestrutura**, **arquitetura**, **segurança**, **custos**, **DevOps** e **infraestrutura como código**, com base em laboratórios práticos e projetos.
+Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo **infraestrutura**, **arquitetura**, **segurança**, **custos**, **DevOps**, **metodologias ágeis** e **infraestrutura como código**, com base em laboratórios práticos e projetos.
 
 ---
 
 ## 🚀 Tecnologias e Conhecimentos
 
 ### 🖥️ Backend & Linguagens
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)
 - Java (nível intermediário)
 - Programação Orientada a Objetos (POO)
 - Abstração, Encapsulamento, Herança e Polimorfismo
@@ -26,18 +27,21 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 ---
 
 ### ☁️ Cloud Computing / AWS
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+![AWS Cloud Quest Badge](assets/aws-cloud-quest-badge.png)
 - Amazon EC2, Auto Scaling e Application Load Balancer
 - Amazon S3, EBS e conceitos de armazenamento
 - Amazon VPC, Subnets e Security Groups
 - Amazon RDS e DynamoDB
 - AWS IAM e Shared Responsibility Model
-- Fundamentos de alta disponibilidade e escalabilidade
+- Fundamentos de alta disponibilidade, escalabilidade e **práticas DevOps**
 - Custos e economia na nuvem
-- AWS Solutions:
+- **AWS Solutions e DevOps:**
   - Reference Architectures
   - Solutions Implementations
   - AWS CDK Constructs
   - AWS Professional Services & Partner Offers
+  - Práticas, cultura, ferramentas e adoção DevOps na Amazon
 - Cloud Adoption Framework (CAF)
 - Estratégias de migração (7R’s)
 - Job Roles in the Cloud
@@ -46,6 +50,7 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 ---
 
 ### 🔧 Versionamento de Código
+<img src="assets/git.png" alt="Git Logo" width="60"/>
 - Git (controle de versões)
 - GitHub (repositórios, branches e colaboração)
 - Versionamento colaborativo
@@ -53,25 +58,7 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 
 ---
 
-## 🏆 Certificações e Formações (Principais)
-
-- **AWS Cloud Practitioner Essentials**  
-  Fundamentos de nuvem, EC2, S3, Lambda, segurança e custos
-
-- **AWS Technical Essentials**  
-  Infraestrutura AWS: computação, redes, armazenamento e segurança
-
-- **AWS Cloud Quest: Cloud Practitioner – Training Badge**  
-  Laboratórios práticos e desafios no console AWS
-
-- **Introduction to AWS Solutions**  
-  Arquiteturas de referência, implementações automatizadas, AWS CDK Constructs e parceiros AWS
-
-- **Job Roles in the Cloud**  
-  Papéis, responsabilidades e operação em ambientes cloud
-
-- **Segurança em Cloud Computing – FIA**  
-  Fundamentos de segurança, governança e boas práticas em nuvem
+## 🏆 Certificações Principais
 
 - **Java Programmer – Módulos I, II e III (Impacta)**  
   Formação completa em Java: POO, coleções, programação funcional, I/O, threads e integração
@@ -79,8 +66,29 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 - **Criando uma Aplicação Completa em Java (Impacta)**  
   Projeto Java com arquitetura em camadas, banco de dados e regras de negócio
 
-- **Versionamento de Código com Git e GitHub (DIO)**  
-  Criação de repositórios, branches e colaboração
+- **AWS Cloud Practitioner Essentials**  
+  Fundamentos de nuvem, EC2, S3, Lambda, segurança e custos
+
+- **Introduction to AWS Solutions**  
+  Arquiteturas de referência, implementações automatizadas, AWS CDK Constructs e parceiros AWS
+
+- **Getting Started with DevOps on AWS**  
+  Fundamentos de DevOps, cultura, práticas, ferramentas AWS e adoção na Amazon
+
+- **AWS Cloud Quest: Cloud Practitioner – Training Badge**  
+  Badge oficial da Credly para AWS Cloud Quest  
+  ![AWS Cloud Quest Badge](assets/aws-cloud-quest-badge.png)
+
+---
+
+## 🌟 Outras Certificações e Cursos
+
+- Versionamento de Código com Git e GitHub (DIO)  
+- AWS Technical Essentials  
+- Job Roles in the Cloud  
+- Segurança em Cloud Computing – FIA  
+- **Contribuindo em um Projeto Open Source no GitHub**  
+  - Aprendizado sobre pull requests, colaboração em projetos open source e automação de PRs
 
 ---
 
@@ -102,6 +110,6 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 
 ## 🌐 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/enzo-anthony/
-- 💻 GitHub: https://github.com/EnzoAnthony006
+- 💼 LinkedIn: https://www.linkedin.com/in/enzo-anthony/  
+- 💻 GitHub: https://github.com/EnzoAnthony006  
 - 📧 E-mail: enzo252606@gmail.com
