@@ -93,6 +93,10 @@ Atualmente estudo e aplico fundamentos de **Cloud Computing na AWS**, incluindo 
 
 ## 📂 Projetos em Destaque
 
+- 📚 **Sistema de Biblioteca em Java** – Gerenciamento completo de livros, usuários, empréstimos e devoluções, com relatórios de histórico e regras de negócio aplicadas.  
+  👉 [GitHub](https://github.com/EnzoAnthony006/Biblioteca)
+
+
 - 🚗 **Sistema de Estacionamento em Java**  
   POO, MVC, persistência e regras de negócio  
   👉 https://github.com/EnzoAnthony006/Estacionamento
