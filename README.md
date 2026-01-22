@@ -1,3 +1,18 @@
+
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EnzoAnthony006&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EnzoAnthony006&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+
+###
+
+###
+
+
+
 # 👋 Olá, eu sou o Enzo Anthony
 
 🎓 Estudante de **Sistemas de Informação**  
@@ -15,7 +30,8 @@ Tenho experiência em **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM,
 ## 🚀 Tecnologias e Conhecimentos
 
 ### 🖥️ Backend & Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logoColor=white)
+### Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> </div>
+
 - Java (nível intermediário)  
 - Programação Orientada a Objetos (POO): Abstração, Encapsulamento, Herança, Polimorfismo  
 - Collections, Streams e programação funcional (Lambda)  
@@ -28,7 +44,10 @@ Tenho experiência em **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM,
 ---
 
 ### ☁️ Cloud Computing / AWS
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+</div>
+
 - AWS (nível intermediário)  
 - EC2, Auto Scaling, Application Load Balancer  
 - S3, EBS, EFS  
@@ -46,7 +65,10 @@ Tenho experiência em **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM,
 ---
 
 ### 🔧 Versionamento de Código
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Git   <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
 - Git (controle de versões)  
 - GitHub (repositórios, branches e colaboração)  
 - Versionamento colaborativo e boas práticas em projetos Open Source  
@@ -79,9 +101,11 @@ Tenho experiência em **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM,
 ## 🌐 Contato
 - 💼 LinkedIn: [https://www.linkedin.com/in/enzo-anthony/](https://www.linkedin.com/in/enzo-anthony/)  
 - 📧 E-mail: enzo252606@gmail.com
- <div align="left">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
-###
+
+
+
