@@ -138,7 +138,7 @@ Tenho experiência em **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM,
 </a>
 
 
-<a href="mailto:enzo252606@gmail.com">
+<a href="mailto:enzoanthonydev06@gmail.com">
   <img 
     src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
     width="52"
