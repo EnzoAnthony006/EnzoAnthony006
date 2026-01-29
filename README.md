@@ -39,14 +39,21 @@ Tenho experiência em **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM,
 ### 🖥️ Backend & Linguagens
 ### Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> </div>
 
-- Java (nível intermediário)  
-- Programação Orientada a Objetos (POO): Abstração, Encapsulamento, Herança, Polimorfismo  
-- Collections, Streams e programação funcional (Lambda)  
-- JDBC e persistência de dados  
-- Arquitetura em camadas (MVC)  
-- Lógica de programação e regras de negócio  
-- Boas práticas de código, debugging e organização de projetos  
-- Gerenciamento de dependências (Maven e Gradle)  
+-Java (nível intermediário)
+
+-Programação Orientada a Objetos (POO): Abstração, Encapsulamento, Herança e Polimorfismo
+
+-Collections, Streams e programação funcional (Lambdas)
+
+-JDBC e persistência de dados
+
+-Arquitetura em camadas (MVC)
+
+-Lógica de programação e regras de negócio
+
+-Boas práticas de código, debugging e tratamento de exceções
+
+-Gerenciamento de dependências com Maven e Gradle
 
 ---
 
@@ -55,19 +62,29 @@ Tenho experiência em **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
-- AWS (nível intermediário)  
-- EC2, Auto Scaling, Application Load Balancer  
-- S3, EBS, EFS  
-- RDS e DynamoDB  
-- Lambda, IAM e Shared Responsibility Model  
-- Fundamentos de alta disponibilidade, escalabilidade e DevOps  
-- Monitoramento e governança (CloudWatch, CloudTrail, Trusted Advisor)  
-- Infraestrutura como código (CloudFormation, Lambda)  
-- AWS Solutions, Reference Architectures e CDK  
-- Cloud Adoption Framework (CAF) e estratégias de migração (7R’s)  
+-AWS (fundamentos sólidos com prática)
 
-**Certificação AWS Cloud Quest:**  
+-EC2, Auto Scaling e Application Load Balancer
+
+-S3, EBS e EFS
+
+-RDS e DynamoDB
+
+-Lambda, IAM e Shared Responsibility Model
+
+-Fundamentos de alta disponibilidade, escalabilidade e práticas de DevOps
+
+-Monitoramento e governança (CloudWatch, CloudTrail, Trusted Advisor)
+
+-Infraestrutura como código (CloudFormation)
+
+-AWS Solutions e Reference Architectures
+
+-Cloud Adoption Framework (CAF) e estratégias de migração (7R’s)
+
+**Certificação / Badge AWS:**  
 [AWS Cloud Quest: Cloud Practitioner – Training Badge](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile)
+
 
 ---
 
