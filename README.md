@@ -10,7 +10,7 @@
 💻 Foco em **Desenvolvimento Backend (Java)**  
 ☁️ **Cloud Computing com AWS**  
 
-Sou estudante com experiência prática em **Java** e **AWS**, desenvolvendo aplicações aplicando **Programação Orientada a Objetos (POO), arquitetura MVC e JDBC**, seguindo boas práticas de **versionamento com Git/GitHub** e **colaboração em projetos Open Source**.
+Sou estudante com  prática em **Java** e **AWS**, desenvolvendo aplicações aplicando **Programação Orientada a Objetos (POO), arquitetura MVC e JDBC**, seguindo boas práticas de **versionamento com Git/GitHub** e **colaboração em projetos Open Source**.
 
 Tenho experiência em **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM, RDS e DynamoDB**, com foco em **segurança, escalabilidade, automação e boas práticas de arquitetura e infraestrutura como código (CloudFormation, Lambda)**. Concluí cursos oficiais da AWS em **Cloud Fundamentals, Segurança na Nuvem e DevOps**, aplicando conceitos de **monitoramento e boas práticas arquiteturais**.
 
