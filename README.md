@@ -103,7 +103,7 @@ Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
 
 * 🌐 **API REST em Java Spring Boot**
   CRUD completo, documentação Swagger e tratamento de erros
-  → [https://github.com/EnzoAnthony006](https://github.com/EnzoAnthony006)
+  → [https://github.com/EnzoAnthony006/my-first-web-api](https://github.com/EnzoAnthony006/my-first-web-api)
 
 ---
 
