@@ -6,86 +6,82 @@
 
 # 👋 Olá, eu sou o Enzo Anthony
 
+<div align="center">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+</div>
+
 🎓 Estudante de **Sistemas de Informação**
 💻 Foco em **Desenvolvimento Backend (Java)**
 ☁️ Prática em **Cloud Computing com AWS**
 
-Desenvolvo aplicações backend em **Java**, aplicando **POO, arquitetura MVC, JDBC e boas práticas de organização de código**, além do uso de **Collections, Streams, Lambdas** e versionamento com **Git/GitHub** em projetos acadêmicos e pessoais.
+Desenvolvo aplicações backend em **Java**, aplicando **POO, MVC, JDBC e boas práticas**, utilizando **Collections, Streams, Lambdas** e versionamento com **Git/GitHub**.
+Tenho experiência prática com **AWS (EC2, S3, Lambda, IAM, RDS, DynamoDB)** e atualmente aprofundo conhecimentos em **Spring Boot** (REST, camadas, CRUD, Swagger, Security).
 
-Tenho experiência prática com **AWS**, utilizando **EC2, S3, Lambda, IAM, RDS e DynamoDB**, aplicando fundamentos de **segurança, escalabilidade, monitoramento e arquitetura em nuvem**.
-Atualmente aprofundo conhecimentos em **Spring Boot**, com:
-
-* Controllers REST
-* Injeção de dependência
-* Arquitetura em camadas
-* CRUD completo
-* Integração com banco de dados
-* Swagger/OpenAPI
-* Spring Security (em andamento)
-
-**Busco oportunidade de estágio em Backend ou Cloud**, onde eu possa evoluir tecnicamente e contribuir com soluções bem estruturadas.
+**Busco oportunidade de estágio em Backend ou Cloud.**
 
 ---
 
-## 🚀 Tecnologias e Conhecimentos
+## 🚀 Tecnologias
 
-### 🖥️ Backend & APIs
+**Backend & APIs**
 
 * Java (intermediário)
-* Programação Orientada a Objetos
-* Collections, Streams e Lambdas
-* JDBC e persistência de dados
-* Arquitetura MVC / camadas
-* APIs REST com Spring Boot
-* DTOs, validações e tratamento de erros
-* Maven e Gradle
-* Debugging e exceções
+* POO, Streams, Lambdas
+* JDBC
+* Spring Boot REST
+* DTOs e validações
+* Maven / Gradle
 
-### ☁️ Cloud Computing / AWS
+**Cloud / AWS**
 
-* EC2, Auto Scaling, Load Balancer
-* VPC, Subnets, Security Groups
-* IAM e Shared Responsibility Model
-* S3, EBS, EFS
-* RDS e DynamoDB
-* CloudWatch e CloudTrail
+* EC2, S3, IAM
+* VPC e segurança
+* RDS, DynamoDB
+* CloudWatch
 * CloudFormation (fundamentos)
-* Well-Architected Framework
-* Estratégias de migração (7R’s)
 
-**Certificação / Badge AWS:**
-[AWS Cloud Quest: Cloud Practitioner – Training Badge](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile)
+**Versionamento**
 
-### 🔧 Versionamento
-
-* Git e GitHub
+* Git / GitHub
 * Branching
-* Colaboração em projetos
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=EnzoAnthony006\&show_icons=true\&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAnthony006\&layout=compact\&theme=tokyonight)
+
+</div>
 
 ---
 
 ## 🏆 Certificações
 
-* Java Programmer — Impacta (Módulos I, II, III)
-* Criando uma Aplicação Completa em Java — Impacta
+* Java Programmer — Impacta
+* Aplicação Completa em Java — Impacta
 * AWS Cloud Practitioner Essentials
 * Introduction to AWS Solutions
 
+Badge AWS:
+[https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile)
+
 ---
 
-## 📂 Projetos em Destaque
+## 📂 Projetos
 
-* 📚 **Sistema de Biblioteca em Java**
-  POO, MVC e JDBC
-  → [https://github.com/EnzoAnthony006/Biblioteca](https://github.com/EnzoAnthony006/Biblioteca)
-
-* 🚗 **Sistema de Estacionamento em Java**
-  Regras de negócio e persistência
-  → [https://github.com/EnzoAnthony006/Estacionamento](https://github.com/EnzoAnthony006/Estacionamento)
-
-* 🌐 **API REST Spring Boot**
-  CRUD, Swagger e tratamento de erros
-  → [https://github.com/EnzoAnthony006/my-first-web-api](https://github.com/EnzoAnthony006/my-first-web-api)
+📚 Biblioteca — [https://github.com/EnzoAnthony006/Biblioteca](https://github.com/EnzoAnthony006/Biblioteca)
+🚗 Estacionamento — [https://github.com/EnzoAnthony006/Estacionamento](https://github.com/EnzoAnthony006/Estacionamento)
+🌐 Spring API — [https://github.com/EnzoAnthony006/my-first-web-api](https://github.com/EnzoAnthony006/my-first-web-api)
 
 ---
 
