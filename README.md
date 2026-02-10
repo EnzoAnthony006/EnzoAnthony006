@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZiZnRzbXg5cnZiN2xjcmE5dGo0azZrZmh3cTZsZXgzYTV5aHR6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tDdqCDneNvC0s6LdYg/giphy.gif"  />
+  <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZiZnRzbXg5cnZiN2xjcmE5dGo0azZrZmh3cTZsZXgzYTV5aHR6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tDdqCDneNvC0s6LdYg/giphy.gif"/>
 </div>
 
 ###
@@ -8,51 +8,38 @@
 
 🎓 Estudante de **Sistemas de Informação**
 💻 Foco em **Desenvolvimento Backend (Java)**
-☁️ **Cloud Computing com AWS**
+☁️ Prática em **Cloud Computing com AWS**
 
-Sou estudante com prática no desenvolvimento backend em **Java**, aplicando **Programação Orientada a Objetos (POO)**, arquitetura **MVC**, **JDBC** e boas práticas de organização de código. Trabalho com **Collections, Streams, Lambdas**, construção de APIs e versionamento utilizando **Git/GitHub** em projetos acadêmicos e pessoais.
+Desenvolvo aplicações backend em **Java**, aplicando **POO, arquitetura MVC, JDBC e boas práticas de organização de código**, além do uso de **Collections, Streams, Lambdas** e versionamento com **Git/GitHub** em projetos acadêmicos e pessoais.
 
-Possuo experiência prática com **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM, RDS e DynamoDB**, aplicando conceitos de **segurança, escalabilidade, monitoramento e arquitetura em nuvem**. Concluí formações oficiais AWS cobrindo fundamentos de infraestrutura, armazenamento, redes, governança e boas práticas arquiteturais.
-
-Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
+Tenho experiência prática com **AWS**, utilizando **EC2, S3, Lambda, IAM, RDS e DynamoDB**, aplicando fundamentos de **segurança, escalabilidade, monitoramento e arquitetura em nuvem**.
+Atualmente aprofundo conhecimentos em **Spring Boot**, com:
 
 * Controllers REST
 * Injeção de dependência
-* Arquitetura em camadas (Controller → Service → Repository)
+* Arquitetura em camadas
 * CRUD completo
 * Integração com banco de dados
-* Documentação com Swagger/OpenAPI
-* Segurança com Spring Security (em andamento)
+* Swagger/OpenAPI
+* Spring Security (em andamento)
 
-**Busco oportunidade de estágio em Backend ou Cloud**, onde eu possa aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir com soluções bem estruturadas.
+**Busco oportunidade de estágio em Backend ou Cloud**, onde eu possa evoluir tecnicamente e contribuir com soluções bem estruturadas.
 
 ---
 
 ## 🚀 Tecnologias e Conhecimentos
 
-### 🖥️ Backend & Linguagens
+### 🖥️ Backend & APIs
 
-* Java (nível intermediário)
+* Java (intermediário)
 * Programação Orientada a Objetos
 * Collections, Streams e Lambdas
 * JDBC e persistência de dados
-* Arquitetura em camadas (MVC)
-* Tratamento de exceções e debugging
+* Arquitetura MVC / camadas
+* APIs REST com Spring Boot
+* DTOs, validações e tratamento de erros
 * Maven e Gradle
-
----
-
-### 🌐 Desenvolvimento de APIs
-
-* Construção de APIs REST com Spring Boot
-* Estrutura em camadas
-* CRUD completo
-* DTOs e validações básicas
-* Documentação com Swagger/OpenAPI
-* Tratamento de erros personalizados
-* Integração com banco de dados
-
----
+* Debugging e exceções
 
 ### ☁️ Cloud Computing / AWS
 
@@ -62,30 +49,25 @@ Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
 * S3, EBS, EFS
 * RDS e DynamoDB
 * CloudWatch e CloudTrail
-* Trusted Advisor
-* Infraestrutura como código (CloudFormation — fundamentos)
+* CloudFormation (fundamentos)
 * Well-Architected Framework
-* Cloud Adoption Framework (CAF)
 * Estratégias de migração (7R’s)
 
 **Certificação / Badge AWS:**
 [AWS Cloud Quest: Cloud Practitioner – Training Badge](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile)
 
----
+### 🔧 Versionamento
 
-### 🔧 Versionamento de Código
-
-* Git
-* GitHub
-* Branching e colaboração
-* Boas práticas em projetos Open Source
+* Git e GitHub
+* Branching
+* Colaboração em projetos
 
 ---
 
-## 🏆 Certificações Principais
+## 🏆 Certificações
 
-* Java Programmer – Módulos I, II e III (Impacta)
-* Criando uma Aplicação Completa em Java (Impacta)
+* Java Programmer — Impacta (Módulos I, II, III)
+* Criando uma Aplicação Completa em Java — Impacta
 * AWS Cloud Practitioner Essentials
 * Introduction to AWS Solutions
 
@@ -94,15 +76,15 @@ Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
 ## 📂 Projetos em Destaque
 
 * 📚 **Sistema de Biblioteca em Java**
-  POO, MVC e JDBC para gerenciamento de livros e empréstimos
+  POO, MVC e JDBC
   → [https://github.com/EnzoAnthony006/Biblioteca](https://github.com/EnzoAnthony006/Biblioteca)
 
 * 🚗 **Sistema de Estacionamento em Java**
-  Controle de entrada/saída com regras de negócio e persistência
+  Regras de negócio e persistência
   → [https://github.com/EnzoAnthony006/Estacionamento](https://github.com/EnzoAnthony006/Estacionamento)
 
-* 🌐 **API REST em Java Spring Boot**
-  CRUD completo, documentação Swagger e tratamento de erros
+* 🌐 **API REST Spring Boot**
+  CRUD, Swagger e tratamento de erros
   → [https://github.com/EnzoAnthony006/my-first-web-api](https://github.com/EnzoAnthony006/my-first-web-api)
 
 ---
@@ -110,19 +92,9 @@ Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
 ## 🌐 Contato
 
 <a href="https://www.linkedin.com/in/enzo-anthony/" target="_blank">
-  <img 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"
-    width="52"
-    height="40"
-    alt="LinkedIn"
-  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
 </a>
 
 <a href="mailto:enzoanthonydev06@gmail.com">
-  <img 
-    src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-    width="52"
-    height="40"
-    alt="E-mail"
-  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
 </a>
