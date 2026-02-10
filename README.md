@@ -18,70 +18,73 @@
 
 🎓 Estudante de **Sistemas de Informação**
 💻 Foco em **Desenvolvimento Backend (Java)**
-☁️ Prática em **Cloud Computing com AWS**
+☁️ **Cloud Computing com AWS**
 
-Desenvolvo aplicações backend em **Java**, aplicando **POO, MVC, JDBC e boas práticas**, utilizando **Collections, Streams, Lambdas** e versionamento com **Git/GitHub**.
-Tenho experiência prática com **AWS (EC2, S3, Lambda, IAM, RDS, DynamoDB)** e atualmente aprofundo conhecimentos em **Spring Boot** (REST, camadas, CRUD, Swagger, Security).
+Desenvolvo aplicações backend em **Java**, aplicando **POO, MVC, JDBC e boas práticas de organização de código**, utilizando **Collections, Streams, Lambdas** e versionamento com **Git/GitHub** em projetos acadêmicos e pessoais.
+
+Possuo experiência prática com **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM, RDS e DynamoDB**, aplicando conceitos de **segurança, escalabilidade, monitoramento e arquitetura em nuvem**. Concluí formações oficiais AWS cobrindo fundamentos de infraestrutura, redes, armazenamento, governança e boas práticas arquiteturais.
+
+Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
+
+* Controllers REST
+* Injeção de dependência
+* Arquitetura em camadas
+* CRUD completo
+* Integração com banco de dados
+* Swagger/OpenAPI
+* Spring Security (em andamento)
 
 **Busco oportunidade de estágio em Backend ou Cloud.**
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Conhecimentos
 
-**Backend & APIs**
+### 🖥️ Backend & APIs
 
 * Java (intermediário)
-* POO, Streams, Lambdas
-* JDBC
-* Spring Boot REST
-* DTOs e validações
-* Maven / Gradle
+* Programação Orientada a Objetos
+* Collections, Streams e Lambdas
+* JDBC e persistência
+* Arquitetura MVC / camadas
+* APIs REST com Spring Boot
+* DTOs, validações e tratamento de erros
+* Maven e Gradle
+* Debugging e exceções
 
-**Cloud / AWS**
+### ☁️ Cloud Computing / AWS
 
-* EC2, S3, IAM
-* VPC e segurança
-* RDS, DynamoDB
-* CloudWatch
+* EC2, Auto Scaling, Load Balancer
+* VPC, Subnets, Security Groups
+* IAM e Shared Responsibility Model
+* S3, EBS, EFS
+* RDS e DynamoDB
+* CloudWatch e CloudTrail
+* Trusted Advisor
 * CloudFormation (fundamentos)
+* Well-Architected Framework
+* Cloud Adoption Framework (CAF)
+* Estratégias de migração (7R’s)
 
-**Versionamento**
-
-* Git / GitHub
-* Branching
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=EnzoAnthony006\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAnthony006\&layout=compact\&theme=tokyonight)
-
-</div>
+**Certificação / Badge AWS:**
+[https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile)
 
 ---
 
 ## 🏆 Certificações
 
-* Java Programmer — Impacta
-* Aplicação Completa em Java — Impacta
+* Java Programmer — Impacta (I, II, III)
+* Criando uma Aplicação Completa em Java — Impacta
 * AWS Cloud Practitioner Essentials
 * Introduction to AWS Solutions
 
-Badge AWS:
-[https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile)
-
 ---
 
-## 📂 Projetos
+## 📂 Projetos em Destaque
 
 📚 Biblioteca — [https://github.com/EnzoAnthony006/Biblioteca](https://github.com/EnzoAnthony006/Biblioteca)
 🚗 Estacionamento — [https://github.com/EnzoAnthony006/Estacionamento](https://github.com/EnzoAnthony006/Estacionamento)
-🌐 Spring API — [https://github.com/EnzoAnthony006/my-first-web-api](https://github.com/EnzoAnthony006/my-first-web-api)
+🌐 API Spring Boot — [https://github.com/EnzoAnthony006/my-first-web-api](https://github.com/EnzoAnthony006/my-first-web-api)
 
 ---
 
