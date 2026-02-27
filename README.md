@@ -92,7 +92,7 @@ Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
 ## 📂 Projetos em Destaque
 
 📚 Biblioteca — [https://github.com/EnzoAnthony006/Biblioteca](https://github.com/EnzoAnthony006/Biblioteca)  
-🚗 Estacionamento — [https://github.com/EnzoAnthony006/Estacionamento](https://github.com/EnzoAnthony006/Estacionamento)  
+🌐 API-REST-Clientes-e-Enderecos — [https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos.git](https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos.git)  
 🌐 API Spring Boot — [https://github.com/EnzoAnthony006/my-first-web-api](https://github.com/EnzoAnthony006/my-first-web-api)  
 
 ---
