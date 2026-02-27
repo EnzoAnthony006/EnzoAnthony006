@@ -22,14 +22,14 @@
 
 🎓 Estudante de **Sistemas de Informação**  
 💻 Foco em **Desenvolvimento Backend (Java)**  
-☁️ **Cloud Computing com AWS**  
+☁️ **Cloud Computing & Bancos de Dados AWS**  
 
-Desenvolvo aplicações backend em **Java**, aplicando **POO, MVC, JDBC e boas práticas de organização de código**, utilizando **Collections, Streams, Lambdas** e versionamento com **Git/GitHub** em projetos acadêmicos e pessoais.
+Desenvolvo **APIs REST em Java**, aplicando **POO, MVC, JDBC, JPA e Spring Boot**, com **SQL/MySQL e DynamoDB**, versionamento **Git/GitHub** e autenticação **JWT**.  
 
-Possuo experiência prática com **AWS**, utilizando serviços como **EC2, S3, Lambda, IAM, RDS, DynamoDB, VPC, EBS, EFS, CloudWatch, CloudTrail**, aplicando conceitos de **segurança, escalabilidade, monitoramento, otimização de custos e arquitetura em nuvem**.  
-Participei de **labs práticos AWS Cloud Quest**, incluindo: **hosting S3, EC2 Auto Scaling, Load Balancer, VPC peering, bancos de dados RDS e DynamoDB, EFS e EBS**, além de experiências em **IA generativa com Amazon Bedrock, SageMaker e Intelligent Assistant**.  
+Experiência prática em **AWS**, incluindo **EC2, Auto Scaling, S3, EBS, EFS, VPC, RDS, DynamoDB, CloudWatch e CloudTrail**, aplicando conceitos de **segurança, escalabilidade, monitoramento, otimização de custos e arquitetura em nuvem**.  
+Participei de **labs práticos AWS Cloud Quest**, abrangendo **hosting S3, multi-AZ EC2, scaling automático, Load Balancer, VPC Peering, RDS Multi-AZ, EFS, EBS**, além de experiências em **IA generativa com Amazon Bedrock, SageMaker e Intelligent Assistant**.  
 
-Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
+Atualmente aprofundando **Spring Boot**, incluindo:
 
 * Controllers REST  
 * Injeção de dependência  
@@ -50,7 +50,7 @@ Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
 * Java (intermediário)  
 * Programação Orientada a Objetos  
 * Collections, Streams e Lambdas  
-* JDBC e persistência  
+* JDBC, JPA e persistência  
 * Arquitetura MVC / camadas  
 * APIs REST com Spring Boot  
 * DTOs, validações e tratamento de erros  
@@ -70,20 +70,18 @@ Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
 * Well-Architected Framework  
 * Cloud Adoption Framework (CAF)  
 * Estratégias de migração (7R’s)  
-* Laboratórios práticos Cloud Quest: hosting S3, multi-AZ EC2, scaling automático, VPC Peering, EFS, RDS Multi-AZ, DynamoDB  
-* AWS IA e Machine Learning: Amazon Bedrock, SageMaker, Intelligent Assistant  
+* Laboratórios práticos Cloud Quest: hosting S3, multi-AZ EC2, scaling automático, Load Balancer, VPC Peering, RDS Multi-AZ, DynamoDB, EFS, EBS  
+* AWS IA/ML: Amazon Bedrock, SageMaker, Intelligent Assistant  
 
-**Certificação / Badge AWS:**  
-[Credly AWS Cloud Practitioner](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile)
-----------------------------------------------------------------------------------------------------------------------
-[Credly AWS Cloud Quest: IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038)
--------------------------------------------------------------------------------------------------------------------------
+**Certificações / Badges AWS:**  
+[Cloud Practitioner](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile) | [Cloud Quest IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038)
+
 ---
 
 ## 🏆 Certificações
 
-* Bootcamp CI&T — Backend com Java e AWS
-* AWS Cloud Quest: IA Generativa Practitioner
+* Bootcamp CI&T — Backend com Java e AWS  
+* AWS Cloud Quest: IA Generativa Practitioner  
 * AWS Cloud Practitioner Essentials  
 * Java - Criando uma Aplicação Completa
 
