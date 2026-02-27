@@ -37,7 +37,7 @@ Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
 * CRUD completo  
 * Integração com banco de dados  
 * Swagger/OpenAPI  
-* Spring Security (em andamento)  
+* Spring Security   
 
 **Busco oportunidade de estágio em Backend ou Cloud.**
 
