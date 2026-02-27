@@ -82,10 +82,10 @@ Atualmente estou aprofundando conhecimentos em **Spring Boot**, incluindo:
 
 ## 🏆 Certificações
 
-* Java Programmer — Impacta (I, II, III)  
-* Criando uma Aplicação Completa em Java — Impacta  
+* Bootcamp CI&T — Backend com Java e AWS
+* AWS Cloud Quest: IA Generativa Practitioner
 * AWS Cloud Practitioner Essentials  
-* Introduction to AWS Solutions  
+* Java - Criando uma Aplicação Completa
 
 ---
 
