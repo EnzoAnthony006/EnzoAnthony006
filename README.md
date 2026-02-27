@@ -7,27 +7,28 @@
 # 👋 Olá, eu sou o Enzo Anthony
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"/>
 </div>
 
 ### 
 
 🎓 Estudante de **Sistemas de Informação**  
-💻 Foco em **Desenvolvimento Backend (Java)**  
+💻 Foco em **Backend Java & APIs**  
 ☁️ **Cloud Computing & Bancos de Dados AWS**  
+🧠 **Lógica de programação e algoritmos**
 
 Desenvolvo **APIs REST em Java**, aplicando **POO, MVC, JDBC, JPA e Spring Boot**, com **SQL/MySQL e DynamoDB**, versionamento **Git/GitHub** e autenticação **JWT**.  
 
-Experiência prática em **AWS**, incluindo **EC2, Auto Scaling, S3, EBS, EFS, VPC, RDS, DynamoDB, CloudWatch e CloudTrail**, aplicando conceitos de **segurança, escalabilidade, monitoramento, otimização de custos e arquitetura em nuvem**.  
-Participei de **labs práticos AWS Cloud Quest**, abrangendo **hosting S3, multi-AZ EC2, scaling automático, Load Balancer, VPC Peering, RDS Multi-AZ, EFS, EBS**, além de experiências em **IA generativa com Amazon Bedrock, SageMaker e Intelligent Assistant**.  
+Tenho experiência prática em **AWS**, incluindo **EC2, Auto Scaling, S3, EBS, EFS, VPC, RDS, DynamoDB, CloudWatch e CloudTrail**, aplicando conceitos de **segurança, escalabilidade, monitoramento, otimização de custos e arquitetura em nuvem**.  
+Participei de **labs práticos AWS Cloud Quest**, com **hosting S3, multi-AZ EC2, scaling automático, Load Balancer, VPC Peering, RDS Multi-AZ, EFS, EBS**, além de **IA generativa com Amazon Bedrock, SageMaker e Intelligent Assistant**.  
 
 Atualmente aprofundando **Spring Boot**, incluindo:
 
@@ -37,7 +38,7 @@ Atualmente aprofundando **Spring Boot**, incluindo:
 * CRUD completo  
 * Integração com banco de dados  
 * Swagger/OpenAPI  
-* Spring Security   
+* Spring Security  
 
 **Busco oportunidade de estágio em Backend ou Cloud.**
 
@@ -46,10 +47,8 @@ Atualmente aprofundando **Spring Boot**, incluindo:
 ## 🚀 Tecnologias e Conhecimentos
 
 ### 🖥️ Backend & APIs
-
 * Java (intermediário)  
-* Programação Orientada a Objetos  
-* Collections, Streams e Lambdas  
+* POO, Collections, Streams, Lambdas  
 * JDBC, JPA e persistência  
 * Arquitetura MVC / camadas  
 * APIs REST com Spring Boot  
@@ -58,10 +57,9 @@ Atualmente aprofundando **Spring Boot**, incluindo:
 * Debugging e exceções  
 
 ### ☁️ Cloud Computing / AWS
-
 * EC2, Auto Scaling, Load Balancer  
 * VPC, Subnets, Security Groups  
-* IAM e Shared Responsibility Model  
+* IAM, Shared Responsibility Model  
 * S3, EBS, EFS  
 * RDS, DynamoDB  
 * CloudWatch e CloudTrail  
@@ -70,7 +68,7 @@ Atualmente aprofundando **Spring Boot**, incluindo:
 * Well-Architected Framework  
 * Cloud Adoption Framework (CAF)  
 * Estratégias de migração (7R’s)  
-* Laboratórios práticos Cloud Quest: hosting S3, multi-AZ EC2, scaling automático, Load Balancer, VPC Peering, RDS Multi-AZ, DynamoDB, EFS, EBS  
+* Labs práticos: hosting S3, multi-AZ EC2, scaling automático, Load Balancer, VPC Peering, RDS Multi-AZ, DynamoDB, EFS, EBS  
 * AWS IA/ML: Amazon Bedrock, SageMaker, Intelligent Assistant  
 
 **Certificações / Badges AWS:**  
@@ -79,28 +77,24 @@ Atualmente aprofundando **Spring Boot**, incluindo:
 ---
 
 ## 🏆 Certificações
-
 * Bootcamp CI&T — Backend com Java e AWS  
 * AWS Cloud Quest: IA Generativa Practitioner  
 * AWS Cloud Practitioner Essentials  
-* Java - Criando uma Aplicação Completa
+* Java - Criando uma Aplicação Completa  
 
 ---
 
 ## 📂 Projetos em Destaque
-
-📚 Biblioteca — [https://github.com/EnzoAnthony006/Biblioteca](https://github.com/EnzoAnthony006/Biblioteca)  
-🌐 API-REST-Clientes-e-Enderecos — [https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos.git](https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos.git)  
-🌐 API Spring Boot — [https://github.com/EnzoAnthony006/my-first-web-api](https://github.com/EnzoAnthony006/my-first-web-api)  
+📚 Biblioteca — [GitHub](https://github.com/EnzoAnthony006/Biblioteca)  
+🌐 API-REST-Clientes-e-Enderecos — [GitHub](https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos.git)  
+🌐 API Spring Boot — [GitHub](https://github.com/EnzoAnthony006/my-first-web-api)  
 
 ---
 
 ## 🌐 Contato
-
 <a href="https://www.linkedin.com/in/enzo-anthony/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40"/>
 </a>
-
 <a href="mailto:enzoanthonydev06@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40"/>
 </a>
