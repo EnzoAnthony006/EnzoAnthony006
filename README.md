@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img height="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHZiZnRzbXg5cnZiN2xjcmE5dGo0azZrZmh3cTZsZXgzYTV5aHR6dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tDdqCDneNvC0s6LdYg/giphy.gif"/>
+  <img height="500" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXYwd2t0aXV3N2lzd2gzcjhjZ2x1emJxenN4Mmhrd3A3aXllZmZxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/uFmH8za4E6M5STIiTu/giphy.gif"/>
 </div>
 
 <h1 align="center">👋 Olá, eu sou o Enzo Anthony</h1>
