@@ -22,7 +22,7 @@
 
 ---
 
-Sou estudante de **Sistemas de Informação** com foco em desenvolvimento backend — o tipo que abre um projeto "só pra testar uma coisa" e duas horas depois está refatorando a arquitetura inteira.
+Sou estudante de **Sistemas de Informação** com foco em desenvolvimento backend. Tenho perfil autodidata e orientado a projetos — aprendo construindo.
 
 Construo APIs REST com **Spring Boot**, autenticação **JWT**, controle de acesso por roles e integração com banco de dados. Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero e integrei frontend HTML/JS com backend protegido por token — não só no Postman.
 
