@@ -1,5 +1,5 @@
 <div align="center"> 
-  <img height="380" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFnN213bTNuamRxZXN0cG0ya2t6b2RqYXljN2x0anA5eTU3cWZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp8JOW74nExzvnPdjV/giphy.gif"/>
+  <img height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFnN213bTNuamRxZXN0cG0ya2t6b2RqYXljN2x0anA5eTU3cWZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp8JOW74nExzvnPdjV/giphy.gif"/>
 </div>
 
 <h1 align="center">👋 Olá, eu sou o Enzo Anthony</h1>
@@ -15,31 +15,20 @@
   <a href="mailto:enzoanthonydev06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://github.com/EnzoAnthony006" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws"/>
-  <img width="10"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git"/>
-</div>
+Sou estudante de **Sistemas de Informação** com foco em desenvolvimento backend — o tipo que abre um projeto "só pra testar uma coisa" e duas horas depois está refatorando a arquitetura inteira.
 
-###
+Construo APIs REST com **Spring Boot**, autenticação **JWT**, controle de acesso por roles e integração com banco de dados. Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero e integrei frontend HTML/JS com backend protegido por token — não só no Postman.
 
-Sou estudante de **Sistemas de Informação** apaixonado por backend — o tipo que abre um projeto "só pra testar uma coisa" e duas horas depois está refatorando a arquitetura inteira. Sem experiência profissional ainda, mas com projetos reais e mais de **50 horas de formação prática em AWS**.
+Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Auto Scaling e serviços de IA/ML em labs reais do Cloud Quest.
 
-Construo APIs REST com **Spring Boot**, autenticação **JWT**, controle de acesso por roles e integração com banco de dados. Na nuvem, já coloquei a mão em EC2, RDS, S3, VPC, Auto Scaling e serviços de IA/ML em labs reais do Cloud Quest.
-
-**Busco estágio em Backend ou Cloud onde possa contribuir com código real desde o primeiro dia.**
+**Busco estágio ou posição Jr em backend Java onde possa contribuir com código real desde o primeiro dia.**
 
 ---
 
@@ -53,9 +42,11 @@ Construo APIs REST com **Spring Boot**, autenticação **JWT**, controle de aces
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### ☁️ Cloud Computing / AWS
@@ -68,10 +59,43 @@ Construo APIs REST com **Spring Boot**, autenticação **JWT**, controle de aces
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazoniam&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 
-VPC · Subnets · Security Groups · VPC Peering · EBS · EFS · Auto Scaling · Load Balancer · CloudTrail · Trusted Advisor · Well-Architected Framework · CAF · 7R's · Bedrock · SageMaker
+VPC · Subnets · Security Groups · EBS · EFS · Auto Scaling · Load Balancer · CloudTrail · Well-Architected Framework · Bedrock · SageMaker
 
 **Certificações:**
-[☁️ AWS Cloud Practitioner](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile) · [🤖 Cloud Quest IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038)
+[☁️ AWS Cloud Practitioner Essentials](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile) · [🤖 Cloud Quest IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038)
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🔐 [Gestão Acadêmica API — Backend + Frontend Integrado](https://github.com/EnzoAnthony006/gestao-academica-api)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML/CSS/JS-E34F26?style=flat&logo=html5&logoColor=white)
+
+API REST completa para gerenciamento acadêmico com autenticação JWT stateless, controle de acesso por roles (`ADMIN`, `ALUNO`, `PROFESSOR`) e frontend integrado com login, rotas protegidas e persistência de token no localStorage. Inclui resolução de CORS, documentação Swagger/OpenAPI e integração com ViaCEP.
+
+---
+
+### 🌐 [API REST — Clientes e Endereços](https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+API REST para cadastro e gerenciamento de clientes com endereços. Arquitetura em camadas, validações e integração com banco de dados relacional.
+
+---
+
+### 📚 [Sistema de Biblioteca](https://github.com/EnzoAnthony006/Biblioteca)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+Sistema de gerenciamento de biblioteca com padrão DAO, JDBC, interface Swing e MySQL. Controle de empréstimos com regras de negócio e persistência relacional.
 
 ---
 
@@ -80,31 +104,7 @@ VPC · Subnets · Security Groups · VPC Peering · EBS · EFS · Auto Scaling �
 * Bootcamp CI&T — Backend com Java e AWS
 * AWS Cloud Quest: IA Generativa Practitioner
 * AWS Cloud Practitioner Essentials
-* Java - Criando uma Aplicação Completa
-
----
-
-## 📂 Projetos em Destaque
-
-### 🎓 [Gestão Acadêmica API](https://github.com/EnzoAnthony006/gestao-academica-api)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-API REST para gerenciamento de cursos e alunos com autenticação JWT e controle de acesso por roles (`ADMIN`, `ALUNO`, `PROFESSOR`). Documentada com Swagger/OpenAPI.
-
-### 🌐 [API REST Clientes e Endereços](https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-API REST para cadastro e gerenciamento de clientes com endereços. Arquitetura em camadas, validações e integração com banco de dados relacional.
-
-### 📚 [Biblioteca Java](https://github.com/EnzoAnthony006/Biblioteca)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-Sistema de gerenciamento de biblioteca com padrão DAO, JDBC, interface Swing e MySQL.
+* Java — Criando uma Aplicação Completa (Impacta)
 
 ---
 
@@ -117,4 +117,12 @@ Sistema de gerenciamento de biblioteca com padrão DAO, JDBC, interface Swing e 
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=EnzoAnthony006&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+<div align="center">
+  <b>📬 Entre em contato</b><br/>
+  <a href="mailto:enzoanthonydev06@gmail.com">enzoanthonydev06@gmail.com</a> · 
+  <a href="https://www.linkedin.com/in/enzo-anthony/">linkedin.com/in/enzo-anthony</a>
 </div>
