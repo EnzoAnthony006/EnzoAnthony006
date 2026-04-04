@@ -5,7 +5,7 @@
 <h1 align="center">👋 Olá, eu sou o Enzo Anthony</h1>
 
 <p align="center">
-  <b>Estudante de Sistemas de Informação · Backend Java & Spring Boot · Cloud AWS</b>
+  <b>Backend Java Developer · Spring Boot · Cloud AWS</b>
 </p>
 
 <p align="center">
@@ -18,13 +18,16 @@
   <a href="https://github.com/EnzoAnthony006" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://enzoanthony006.github.io/Portf-lio-EnzoAnthony/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-FF6F3C?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-Sou estudante de **Sistemas de Informação** com foco em desenvolvimento backend. Tenho perfil autodidata e orientado a projetos — aprendo construindo.
+Desenvolvedor Backend com foco em **Java e Spring Boot**, especializado em APIs REST com autenticação JWT, controle de acesso por roles e integração com banco de dados relacional. Tenho perfil autodidata e orientado a projetos — aprendo construindo.
 
-Construo APIs REST com **Spring Boot**, autenticação **JWT**, controle de acesso por roles e integração com banco de dados. Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero e integrei frontend HTML/JS com backend protegido por token — não só no Postman.
+Construo APIs com **Spring Boot**, autenticação **JWT**, controle de acesso por roles e integração com banco de dados. Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero, integrei cache com **Redis**, containerizei aplicações com **Docker** e integrei frontend HTML/JS com backend protegido por token.
 
 Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Auto Scaling e serviços de IA/ML em labs reais do Cloud Quest.
 
@@ -42,7 +45,8 @@ Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Auto
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logoColor=white)
@@ -61,14 +65,27 @@ Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Auto
 
 VPC · Subnets · Security Groups · EBS · EFS · Auto Scaling · Load Balancer · CloudTrail · Well-Architected Framework · Bedrock · SageMaker
 
-**Certificações:**
+**Badges:**
 [☁️ AWS Cloud Practitioner Essentials](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile) · [🤖 Cloud Quest IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038)
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🔐 [Gestão Acadêmica API — Backend + Frontend Integrado](https://github.com/EnzoAnthony006/gestao-academica-api)
+### 🔗 [URL Shortener API](https://github.com/EnzoAnthony006/url.shortener)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+
+API REST para encurtamento de URLs com autenticação JWT stateless, cache de alta performance com Redis, containerização completa com Docker e cobertura de testes com JUnit 5 e Mockito. Documentação via Swagger/OpenAPI.
+
+---
+
+### 🎓 [Gestão Acadêmica API — Backend + Frontend Integrado](https://github.com/EnzoAnthony006/gestao-academica-api)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
@@ -77,7 +94,7 @@ VPC · Subnets · Security Groups · EBS · EFS · Auto Scaling · Load Balancer
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML/CSS/JS-E34F26?style=flat&logo=html5&logoColor=white)
 
-API REST completa para gerenciamento acadêmico com autenticação JWT stateless, controle de acesso por roles (`ADMIN`, `ALUNO`, `PROFESSOR`) e frontend integrado com login, rotas protegidas e persistência de token no localStorage. Inclui resolução de CORS, documentação Swagger/OpenAPI e integração com ViaCEP.
+API REST para gerenciamento acadêmico com autenticação JWT, controle de acesso por roles (`ADMIN`, `ALUNO`, `PROFESSOR`) e frontend integrado com login, rotas protegidas e persistência de token. Inclui resolução de CORS, documentação Swagger e integração com ViaCEP.
 
 ---
 
@@ -99,25 +116,17 @@ Sistema de gerenciamento de biblioteca com padrão DAO, JDBC, interface Swing e 
 
 ---
 
-## 🏆 Certificações
+## 🏆 Certificações & Badges
 
-* Bootcamp CI&T — Backend com Java e AWS
-* AWS Cloud Quest: IA Generativa Practitioner
-* AWS Cloud Practitioner Essentials
-* Java — Criando uma Aplicação Completa (Impacta)
+* ☁️ AWS Cloud Practitioner Essentials
+* 🤖 AWS Cloud Quest: IA Generativa Practitioner
+* ☁️ AWS Technical Essentials
+* 🚀 Bootcamp CI&T — Backend com Java e AWS
+* ☕ Java — Criando uma Aplicação Completa (Impacta)
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EnzoAnthony006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAnthony006&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=EnzoAnthony006&theme=tokyonight&hide_border=true"/>
-</div>
 
 ---
 
