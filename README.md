@@ -125,7 +125,7 @@ Sistema de gerenciamento de biblioteca com padrão DAO, JDBC, interface Swing e 
 * ☕ Java — Criando uma Aplicação Completa (Impacta)
 
 ---
-![GitHub Stats Card](https://ghstats.dev/api/card?username=EnzoAnthony006&border_radius=0&size=compact)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=EnzoAnthony006&theme=midnight&size=compact)
 
 
 ---
