@@ -2,7 +2,7 @@
   <img height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFnN213bTNuamRxZXN0cG0ya2t6b2RqYXljN2x0anA5eTU3cWZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp8JOW74nExzvnPdjV/giphy.gif"/>
 </div>
 
-<h1 align="center">👋 Olá, eu sou o Enzo Anthony</h1>
+<h1 align="center"> Olá, eu sou o Enzo Anthony</h1>
 
 <p align="center">
   <b>Backend Java Developer · Spring Boot · Cloud AWS</b>
@@ -27,9 +27,9 @@
 
 Desenvolvedor Backend com foco em **Java e Spring Boot**, especializado em APIs REST com autenticação JWT, controle de acesso por roles e integração com banco de dados relacional. Tenho perfil autodidata e orientado a projetos — aprendo construindo.
 
-Construo APIs com **Spring Boot**, autenticação **JWT**, controle de acesso por roles e integração com banco de dados. Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero, integrei cache com **Redis**, containerizei aplicações com **Docker** e integrei frontend HTML/JS com backend protegido por token.
+Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero, integrei cache com **Redis**, containerizei aplicações com **Docker**, trabalhei com mensageria usando **Apache Kafka**, automatizei pipelines com **GitHub Actions** e integrei frontend HTML/JS com backend protegido por token.
 
-Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Auto Scaling e serviços de IA/ML em labs reais do Cloud Quest.
+Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Lambda, CloudFormation, Auto Scaling e outros serviços em labs reais do AWS Academy Cloud Architecting (módulos 2–16).
 
 **Busco estágio ou posição Jr em backend Java onde possa contribuir com código real desde o primeiro dia.**
 
@@ -47,6 +47,8 @@ Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Auto
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logoColor=white)
@@ -63,16 +65,16 @@ Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Auto
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazoniam&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 
-VPC · Subnets · Security Groups · EBS · EFS · Auto Scaling · Load Balancer · CloudTrail · Well-Architected Framework · Bedrock · SageMaker
+VPC · Subnets · Security Groups · EBS · EFS · Lambda · CloudFormation · Auto Scaling · Load Balancer · CloudFront · SQS · SNS · CloudTrail · Well-Architected Framework
 
 **Badges:**
-[☁️ AWS Cloud Practitioner Essentials](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile) · [🤖 Cloud Quest IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038)
+[☁️ AWS Cloud Practitioner Essentials](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile) · [🤖 Cloud Quest IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038) · [AWS Cloud Architecting](https://www.credly.com/badges/4ec6ba6e-c4f5-48d6-8f7d-808216c6bbf9/public_url)
 
 ---
 
 ## 📂 Projetos em Destaque
 
-### 🔗 [URL Shortener API](https://github.com/EnzoAnthony006/url.shortener)
+### 🔗 [URL Shortener API](https://github.com/EnzoAnthony006/url-shortener)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
@@ -95,6 +97,16 @@ API REST para encurtamento de URLs com autenticação JWT stateless, cache de al
 ![HTML](https://img.shields.io/badge/HTML/CSS/JS-E34F26?style=flat&logo=html5&logoColor=white)
 
 API REST para gerenciamento acadêmico com autenticação JWT, controle de acesso por roles (`ADMIN`, `ALUNO`, `PROFESSOR`) e frontend integrado com login, rotas protegidas e persistência de token. Inclui resolução de CORS, documentação Swagger e integração com ViaCEP.
+
+---
+
+### 📘 [API de Cursos e Alunos](https://github.com/EnzoAnthony006/api-cursos-alunos) *(em desenvolvimento)*
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+Spring Boot com autenticação JWT, controle de roles e frontend com tela de login e painel de alunos.
 
 ---
 
@@ -121,12 +133,14 @@ Sistema de gerenciamento de biblioteca com padrão DAO, JDBC, interface Swing e 
 * ☁️ AWS Cloud Practitioner Essentials
 * 🤖 AWS Cloud Quest: IA Generativa Practitioner
 * ☁️ AWS Technical Essentials
+* 📐 AWS Academy Cloud Architecting — Módulos 2–16 concluídos com labs práticos
 * 🚀 Bootcamp CI&T — Backend com Java e AWS
 * ☕ Java — Criando uma Aplicação Completa (Impacta)
 
 ---
-![GitHub Stats Card](https://ghstats.dev/api/card?username=EnzoAnthony006&theme=midnight&size=compact)
 
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=EnzoAnthony006&theme=vue-dark&hide_border=true)
+![EnzoAnthony006's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAnthony006&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
