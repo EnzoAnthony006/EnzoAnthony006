@@ -100,15 +100,6 @@ API REST para gerenciamento acadêmico com autenticação JWT, controle de acess
 
 ---
 
-### 📘 [API de Cursos e Alunos](https://github.com/EnzoAnthony006/api-cursos-alunos) *(em desenvolvimento)*
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-Spring Boot com autenticação JWT, controle de roles e frontend com tela de login e painel de alunos.
-
----
 
 ### 🌐 [API REST — Clientes e Endereços](https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos)
 
