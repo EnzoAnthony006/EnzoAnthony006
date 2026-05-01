@@ -27,7 +27,7 @@
 
 Desenvolvedor Backend com foco em **Java e Spring Boot**, especializado em APIs REST com autenticação JWT, controle de acesso por roles e integração com banco de dados relacional. Tenho perfil autodidata e orientado a projetos — aprendo construindo.
 
-Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero, integrei cache com **Redis**, containerizei aplicações com **Docker**, trabalhei com mensageria usando **Apache Kafka**, automatizei pipelines com **GitHub Actions** e integrei frontend HTML/JS com backend protegido por token.
+Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero, integrei cache com **Redis**, containerizei aplicações com **Docker**, trabalhei com mensageria usando **Apache Kafka**, apliquei **Clean Architecture** em projeto real, automatizei deploy com **GitHub Actions + Docker Hub** e integrei frontend HTML/JS com backend protegido por token.
 
 Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Lambda, CloudFormation, Auto Scaling e outros serviços em labs reais do AWS Academy Cloud Architecting (módulos 2–16).
 
@@ -74,6 +74,18 @@ VPC · Subnets · Security Groups · EBS · EFS · Lambda · CloudFormation · A
 
 ## 📂 Projetos em Destaque
 
+### 📬 [Sistema de Notificações](https://github.com/EnzoAnthony006/notification-service)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
+
+Sistema de notificações assíncrono com Apache Kafka, seguindo Clean Architecture. Producer publica eventos no tópico, Consumer processa as notificações de forma desacoplada. Pipeline CI/CD automatizado com GitHub Actions publica a imagem no Docker Hub a cada push.
+
+---
+
 ### 🔗 [URL Shortener API](https://github.com/EnzoAnthony006/url-shortener)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
@@ -99,7 +111,6 @@ API REST para encurtamento de URLs com autenticação JWT stateless, cache de al
 API REST para gerenciamento acadêmico com autenticação JWT, controle de acesso por roles (`ADMIN`, `ALUNO`, `PROFESSOR`) e frontend integrado com login, rotas protegidas e persistência de token. Inclui resolução de CORS, documentação Swagger e integração com ViaCEP.
 
 ---
-
 
 ### 🌐 [API REST — Clientes e Endereços](https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos)
 
