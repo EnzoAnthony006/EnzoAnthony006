@@ -141,10 +141,7 @@ Sistema de gerenciamento de biblioteca com padrão DAO, JDBC, interface Swing e 
 
 ---
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=EnzoAnthony006&theme=vue-dark&hide_border=true)
-![EnzoAnthony006's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAnthony006&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
----
 
 <div align="center">
   <b>📬 Entre em contato</b><br/>
