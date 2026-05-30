@@ -2,7 +2,7 @@
   <img height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFnN213bTNuamRxZXN0cG0ya2t6b2RqYXljN2x0anA5eTU3cWZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp8JOW74nExzvnPdjV/giphy.gif"/>
 </div>
 
-<h1 align="center"> Olá, eu sou o Enzo Anthony</h1>
+<h1 align="center">Olá, eu sou o Enzo Anthony</h1>
 
 <p align="center">
   <b>Backend Java Developer · Spring Boot · Cloud AWS</b>
@@ -25,13 +25,13 @@
 
 ---
 
-Desenvolvedor Backend com foco em **Java e Spring Boot**, especializado em APIs REST com autenticação JWT, controle de acesso por roles e integração com banco de dados relacional. Tenho perfil autodidata e orientado a projetos — aprendo construindo.
+Desenvolvedor Backend com foco em **Java e Spring Boot**, construindo APIs REST com autenticação JWT, controle de acesso por roles e integração com banco de dados relacional.
 
 Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero, integrei cache com **Redis**, containerizei aplicações com **Docker**, trabalhei com mensageria usando **Apache Kafka**, apliquei **Clean Architecture** em projeto real, automatizei deploy com **GitHub Actions + Docker Hub** e integrei frontend HTML/JS com backend protegido por token.
 
 Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Lambda, CloudFormation, Auto Scaling e outros serviços em labs reais do AWS Academy Cloud Architecting (módulos 2–16).
 
-**Busco estágio ou posição Jr em backend Java onde possa contribuir com código real desde o primeiro dia.**
+**Busco estágio ou posição Jr em backend Java — presencial, remoto ou híbrido em São Paulo.**
 
 ---
 
@@ -66,9 +66,6 @@ Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Lamb
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 
 VPC · Subnets · Security Groups · EBS · EFS · Lambda · CloudFormation · Auto Scaling · Load Balancer · CloudFront · SQS · SNS · CloudTrail · Well-Architected Framework
-
-**Badges:**
-[☁️ AWS Cloud Practitioner Essentials](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile) · [🤖 Cloud Quest IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038) · [AWS Cloud Architecting](https://www.credly.com/badges/4ec6ba6e-c4f5-48d6-8f7d-808216c6bbf9/public_url)
 
 ---
 
@@ -130,18 +127,17 @@ Sistema de gerenciamento de biblioteca com padrão DAO, JDBC, interface Swing e 
 
 ---
 
-## 🏆 Certificações & Badges
+## 🏆 Certificações
 
-* ☁️ AWS Cloud Practitioner Essentials
-* 🤖 AWS Cloud Quest: IA Generativa Practitioner
-* ☁️ AWS Technical Essentials
-* 📐 AWS Academy Cloud Architecting — Módulos 2–16 concluídos com labs práticos
-* 🚀 Bootcamp CI&T — Backend com Java e AWS
-* ☕ Java — Criando uma Aplicação Completa (Impacta)
+| Badge | Certificação |
+|---|---|
+| ☁️ | [AWS Cloud Practitioner Essentials](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile) |
+| 🤖 | [AWS Cloud Quest: IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038) |
+| 📐 | [AWS Academy Cloud Architecting — Módulos 2–16](https://www.credly.com/badges/4ec6ba6e-c4f5-48d6-8f7d-808216c6bbf9/public_url) |
+| 🚀 | Bootcamp CI&T — Backend com Java e AWS |
+| ☕ | Java — Criando uma Aplicação Completa (Impacta) |
 
 ---
-
-
 
 <div align="center">
   <b>📬 Entre em contato</b><br/>
