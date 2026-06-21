@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou o Enzo Anthony</h1>
 
 <p align="center">
-  <b>Backend Java Developer · Spring Boot · Cloud AWS</b>
+  <b>Jovem Aprendiz em TI @ACT Digital · Backend Java Developer · Spring Boot · Cloud AWS</b>
 </p>
 
 <p align="center">
@@ -25,13 +25,15 @@
 
 ---
 
+Atualmente Jovem Aprendiz Administrativo em TI na **ACT Digital**, construindo minha trajetória em **backend Java** por estudo autodidata desde novembro de 2025, com foco em projetos práticos para portfólio.
+
 Desenvolvedor Backend com foco em **Java e Spring Boot**, construindo APIs REST com autenticação JWT, controle de acesso por roles e integração com banco de dados relacional.
 
 Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero, integrei cache com **Redis**, containerizei aplicações com **Docker**, trabalhei com mensageria usando **Apache Kafka**, apliquei **Clean Architecture** em projeto real, automatizei deploy com **GitHub Actions + Docker Hub** e integrei frontend HTML/JS com backend protegido por token.
 
 Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Lambda, CloudFormation, Auto Scaling e outros serviços em labs reais do AWS Academy Cloud Architecting (módulos 2–16).
 
-**Busco estágio ou posição Jr em backend Java — presencial, remoto ou híbrido em São Paulo.**
+**Busco evoluir para uma posição de backend Java Jr — presencial, remoto ou híbrido em São Paulo.**
 
 ---
 
@@ -118,14 +120,6 @@ API REST para cadastro e gerenciamento de clientes com endereços. Arquitetura e
 
 ---
 
-### 📚 [Sistema de Biblioteca](https://github.com/EnzoAnthony006/Biblioteca)
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-Sistema de gerenciamento de biblioteca com padrão DAO, JDBC, interface Swing e MySQL. Controle de empréstimos com regras de negócio e persistência relacional.
-
----
 
 ## 🏆 Certificações
 
