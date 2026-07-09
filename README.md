@@ -25,17 +25,14 @@
 
 ---
 
-Atualmente Jovem Aprendiz Administrativo em TI na **ACT Digital**, construindo minha trajetória em **backend Java** por estudo autodidata desde novembro de 2025, com foco em projetos práticos para portfólio.
+Desenvolvedor Backend Java focado em Spring Boot, construindo APIs REST com autenticação JWT, controle de acesso por roles (RBAC), cache com Redis e mensageria assíncrona com Apache Kafka. Aplico Clean Architecture desde o design e automatizo deploy com Docker + GitHub Actions.
 
-Desenvolvedor Backend com foco em **Java e Spring Boot**, construindo APIs REST com autenticação JWT, controle de acesso por roles e integração com banco de dados relacional.
+Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Aprendiz Administrativo em TI na **ACT Digital**, com mais de **50 horas de prática em AWS** (AWS Academy Cloud Architecting, módulos 2–16 concluídos, entre outros labs).
 
-Já enfrentei CORS na prática, configurei `SecurityFilterChain` do zero, integrei cache com **Redis**, containerizei aplicações com **Docker**, trabalhei com mensageria usando **Apache Kafka**, apliquei **Clean Architecture** em projeto real, automatizei deploy com **GitHub Actions + Docker Hub** e integrei frontend HTML/JS com backend protegido por token.
-
-Na nuvem, tenho mais de **50 horas de prática em AWS**: EC2, RDS, S3, VPC, Lambda, CloudFormation, Auto Scaling e outros serviços em labs reais do AWS Academy Cloud Architecting (módulos 2–16).
-
-**Busco evoluir para uma posição de backend Java Jr — presencial, remoto ou híbrido em São Paulo.**
-
+**Buscando minha primeira posição como Backend Java Jr — presencial, remoto ou híbrido em São Paulo.**
 ---
+
+
 
 ## 🚀 Tecnologias
 
@@ -81,7 +78,7 @@ VPC · Subnets · Security Groups · EBS · EFS · Lambda · CloudFormation · A
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 
-Sistema de notificações assíncrono com Apache Kafka, seguindo Clean Architecture. Producer publica eventos no tópico, Consumer processa as notificações de forma desacoplada. Pipeline CI/CD automatizado com GitHub Actions publica a imagem no Docker Hub a cada push.
+Sistema de notificações assíncrono com Apache Kafka, seguindo Clean Architecture — resolve o problema de acoplamento entre serviços: se um consumidor cai, o producer continua publicando sem impacto. Producer publica eventos no tópico, Consumer processa de forma desacoplada. Pipeline CI/CD com GitHub Actions publica a imagem no Docker Hub a cada push, com testes unitários rodando antes do build (JUnit 5).
 
 ---
 
@@ -94,7 +91,7 @@ Sistema de notificações assíncrono com Apache Kafka, seguindo Clean Architect
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 
-API REST para encurtamento de URLs com autenticação JWT stateless, cache de alta performance com Redis, containerização completa com Docker e cobertura de testes com JUnit 5 e Mockito. Documentação via Swagger/OpenAPI.
+API REST para encurtamento de URLs com autenticação JWT stateless e controle de acesso. Cache com Redis evita consulta repetida ao banco a cada redirecionamento — a URL mais acessada do sistema fica servida direto da memória. Containerização completa com Docker, cobertura de testes com JUnit 5 e Mockito, documentação via Swagger/OpenAPI.
 
 ---
 
@@ -107,7 +104,18 @@ API REST para encurtamento de URLs com autenticação JWT stateless, cache de al
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML/CSS/JS-E34F26?style=flat&logo=html5&logoColor=white)
 
-API REST para gerenciamento acadêmico com autenticação JWT, controle de acesso por roles (`ADMIN`, `ALUNO`, `PROFESSOR`) e frontend integrado com login, rotas protegidas e persistência de token. Inclui resolução de CORS, documentação Swagger e integração com ViaCEP.
+API REST para gerenciamento acadêmico com autenticação JWT e controle de acesso por 3 roles distintas (`ADMIN`, `ALUNO`, `PROFESSOR`), cada uma com permissões diferentes de endpoint. Frontend integrado com login, rotas protegidas e persistência de token em `localStorage`. Inclui resolução de CORS entre front e back, documentação Swagger e enriquecimento automático de dados via integração com ViaCEP.
+
+---
+
+### 🔐 [Secure REST API com Spring Boot](https://github.com/EnzoAnthony006/spring-securityjwt)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+API REST com autenticação JWT e autorização por roles (`USER`/`MANAGER`), arquitetura em camadas aplicando Spring Security, JPA e MySQL.
 
 ---
 
@@ -116,10 +124,9 @@ API REST para gerenciamento acadêmico com autenticação JWT, controle de acess
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-API REST para cadastro e gerenciamento de clientes com endereços. Arquitetura em camadas, validações e integração com banco de dados relacional.
+API REST para cadastro e gerenciamento de clientes com endereços. Arquitetura em camadas, validações e integração com ViaCEP para preenchimento automático de endereço a partir do CEP.
 
 ---
-
 
 ## 🏆 Certificações
 
