@@ -5,7 +5,7 @@
 <h1 align="center">Olá, eu sou o Enzo Anthony</h1>
 
 <p align="center">
-  <b>Jovem Aprendiz em TI @ACT Digital · Backend Java Developer · Spring Boot · Cloud AWS</b>
+  <b>Jovem Aprendiz Administrativo em TI @ACT Digital · Backend Java Developer · Spring Boot · Cloud AWS</b>
 </p>
 
 <p align="center">
@@ -25,14 +25,13 @@
 
 ---
 
-Desenvolvedor Backend Java focado em Spring Boot, construindo APIs REST com autenticação JWT, controle de acesso por roles (RBAC), cache com Redis e mensageria assíncrona com Apache Kafka. Aplico Clean Architecture desde o design e automatizo deploy com Docker + GitHub Actions.
+Desenvolvedor Backend Java focado em Spring Boot, construindo APIs REST com autenticação JWT, controle de acesso por roles (RBAC), cache com Redis e mensageria assíncrona com Apache Kafka e RabbitMQ. Aplico Clean Architecture e SOLID desde o design, automatizo deploy com Docker e CI/CD via GitHub Actions, e monitoro aplicações com Prometheus e Grafana.
 
-Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Aprendiz Administrativo em TI na **ACT Digital**, com mais de **50 horas de prática em AWS** (AWS Academy Cloud Architecting, módulos 2–16 concluídos, entre outros labs).
+Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Aprendiz Administrativo em TI na **ACT Digital**, com mais de **50 horas de prática em AWS** (AWS Academy Cloud Architecting, módulos 2–16 concluídos) e **Google Cloud Digital Leader** concluído.
 
 **Buscando minha primeira posição como Backend Java Jr — presencial, remoto ou híbrido em São Paulo.**
+
 ---
-
-
 
 ## 🚀 Tecnologias
 
@@ -47,7 +46,11 @@ Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Apre
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logoColor=white)
@@ -63,6 +66,7 @@ Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Apre
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazoniam&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 VPC · Subnets · Security Groups · EBS · EFS · Lambda · CloudFormation · Auto Scaling · Load Balancer · CloudFront · SQS · SNS · CloudTrail · Well-Architected Framework
 
@@ -135,8 +139,15 @@ API REST para cadastro e gerenciamento de clientes com endereços. Arquitetura e
 | ☁️ | [AWS Cloud Practitioner Essentials](https://www.credly.com/badges/6ae9c931-4575-4d30-b3fe-a5224a3a5c01/linked_in_profile) |
 | 🤖 | [AWS Cloud Quest: IA Generativa Practitioner](https://www.credly.com/badges/15cb87a5-f818-4848-a01c-815b6af74038) |
 | 📐 | [AWS Academy Cloud Architecting — Módulos 2–16](https://www.credly.com/badges/4ec6ba6e-c4f5-48d6-8f7d-808216c6bbf9/public_url) |
+| ☁️ | Google Cloud Digital Leader — trilha concluída |
 | 🚀 | Bootcamp CI&T — Backend com Java e AWS |
 | ☕ | Java — Criando uma Aplicação Completa (Impacta) |
+| 🐙 | Contribuindo em Projetos Open Source no GitHub (DIO) |
+
+---
+
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=EnzoAnthony006&theme=vue-dark&hide_border=true)
+![EnzoAnthony006's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EnzoAnthony006&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ---
 
