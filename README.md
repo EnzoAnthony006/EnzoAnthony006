@@ -74,6 +74,19 @@ VPC · Subnets · Security Groups · EBS · EFS · Lambda · CloudFormation · A
 
 ## 📂 Projetos em Destaque
 
+### 💳 [Payment Gateway Service](https://github.com/EnzoAnthony006/payment-gateway-service)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+Gateway de pagamentos simulado em Clean Architecture, com foco em resiliência a falhas de um provedor externo instável: Circuit Breaker e Retry (Resilience4j) evitam que uma falha pontual derrube a aplicação, e idempotência garante que reenviar a mesma requisição não gera cobrança duplicada. Testes de integração com Testcontainers (Postgres e RabbitMQ reais) rodam automaticamente no CI a cada push, e métricas de latência e taxa de erro ficam visíveis em tempo real via Prometheus e Grafana.
+
+---
+
 ### 📬 [Sistema de Notificações](https://github.com/EnzoAnthony006/notification-service)
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
