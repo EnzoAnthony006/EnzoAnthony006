@@ -26,7 +26,7 @@ Desenvolvedor Backend Java focado em Spring Boot, construindo APIs REST com aute
 
 Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Aprendiz Administrativo em TI na **ACT Digital**, com mais de **50 horas de prática em AWS** (AWS Academy Cloud Architecting, módulos 2–16 concluídos) e **Google Cloud Digital Leader** concluído.
 
-**Buscando minha primeira posição como Backend Java Jr/ Estágiario De Desenvolvimento de Software — presencial, remoto ou híbrido em São Paulo.**
+**Buscando minha primeira posição como Estagiário ou Backend Java Jr — presencial, remoto ou híbrido em São Paulo.**
 
 ---
 
