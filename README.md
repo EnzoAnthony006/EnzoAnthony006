@@ -1,13 +1,10 @@
 <div align="center"> 
   <img height="320" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFnN213bTNuamRxZXN0cG0ya2t6b2RqYXljN2x0anA5eTU3cWZvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lp8JOW74nExzvnPdjV/giphy.gif"/>
 </div>
-
 <h1 align="center">Olá, eu sou o Enzo Anthony</h1>
-
 <p align="center">
-  <b>Jovem Aprendiz Administrativo em TI @ACT Digital · Backend Java Developer · Spring Boot · Cloud AWS</b>
+  <b>Backend Java Developer (em formação) · Jovem Aprendiz Administrativo em TI @ACT Digital</b>
 </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/enzo-anthony/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -25,11 +22,11 @@
 
 ---
 
-Desenvolvedor Backend Java focado em Spring Boot, construindo APIs REST com autenticação JWT, controle de acesso por roles (RBAC), cache com Redis e mensageria assíncrona com Apache Kafka e RabbitMQ. Aplico Clean Architecture e SOLID desde o design, automatizo deploy com Docker e CI/CD via GitHub Actions, e monitoro aplicações com Prometheus e Grafana.
+Desenvolvedor Backend Java focado em Spring Boot, construindo APIs REST com autenticação JWT, controle de acesso por roles (RBAC), cache com Redis e mensageria assíncrona com Apache Kafka e RabbitMQ. Aplico Clean Architecture e SOLID desde o design, trato resiliência a falhas externas com Circuit Breaker e Retry (Resilience4j), automatizo deploy com Docker e CI/CD via GitHub Actions, e monitoro aplicações com Prometheus e Grafana.
 
 Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Aprendiz Administrativo em TI na **ACT Digital**, com mais de **50 horas de prática em AWS** (AWS Academy Cloud Architecting, módulos 2–16 concluídos) e **Google Cloud Digital Leader** concluído.
 
-**Buscando minha primeira posição como Backend Java Jr — presencial, remoto ou híbrido em São Paulo.**
+**Buscando minha primeira posição como Backend Java Jr/ Estágiario De Desenvolvimento de Software — presencial, remoto ou híbrido em São Paulo.**
 
 ---
 
@@ -43,17 +40,18 @@ Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Apre
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)
 ![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logoColor=white)
+![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=flat&logo=docker&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
@@ -64,17 +62,17 @@ Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Apre
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
 ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat&logo=amazoniam&logoColor=white)
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat&logo=amazoncloudwatch&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
-VPC · Subnets · Security Groups · EBS · EFS · Lambda · CloudFormation · Auto Scaling · Load Balancer · CloudFront · SQS · SNS · CloudTrail · Well-Architected Framework
+VPC · Subnets · Security Groups · IAM · EBS · EFS · Lambda · CloudFormation · Auto Scaling · Load Balancer · CloudFront · SQS · SNS · CloudTrail · Well-Architected Framework
 
 ---
 
 ## 📂 Projetos em Destaque
 
 ### 💳 [Payment Gateway Service](https://github.com/EnzoAnthony006/payment-gateway-service)
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
