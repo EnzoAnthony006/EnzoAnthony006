@@ -33,7 +33,6 @@ Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Apre
 ## 🚀 Tecnologias
 
 ### 🖥️ Backend & APIs
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
@@ -56,7 +55,6 @@ Estudo backend de forma autodidata desde novembro de 2025. Atualmente Jovem Apre
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### ☁️ Cloud Computing / AWS
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
@@ -69,10 +67,15 @@ VPC · Subnets · Security Groups · IAM · EBS · EFS · Lambda · CloudFormati
 
 ---
 
+## 📚 Em estudo atualmente
+
+Spring WebFlux (Programação Reativa) · OpenTelemetry (Observabilidade Distribuída) · Arquitetura Hexagonal · OAuth2 + Keycloak
+
+---
+
 ## 📂 Projetos em Destaque
 
 ### 💳 [Payment Gateway Service](https://github.com/EnzoAnthony006/payment-gateway-service)
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -86,7 +89,6 @@ Gateway de pagamentos simulado em Clean Architecture, com foco em resiliência a
 ---
 
 ### 📬 [Sistema de Notificações](https://github.com/EnzoAnthony006/notification-service)
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -98,7 +100,6 @@ Sistema de notificações assíncrono com Apache Kafka, seguindo Clean Architect
 ---
 
 ### 🔗 [URL Shortener API](https://github.com/EnzoAnthony006/url-shortener)
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
@@ -111,7 +112,6 @@ API REST para encurtamento de URLs com autenticação JWT stateless e controle d
 ---
 
 ### 🎓 [Gestão Acadêmica API — Backend + Frontend Integrado](https://github.com/EnzoAnthony006/gestao-academica-api)
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
@@ -124,7 +124,6 @@ API REST para gerenciamento acadêmico com autenticação JWT e controle de aces
 ---
 
 ### 🔐 [Secure REST API com Spring Boot](https://github.com/EnzoAnthony006/spring-securityjwt)
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
@@ -135,7 +134,6 @@ API REST com autenticação JWT e autorização por roles (`USER`/`MANAGER`), ar
 ---
 
 ### 🌐 [API REST — Clientes e Endereços](https://github.com/EnzoAnthony006/API-REST-Clientes-e-Enderecos)
-
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
@@ -156,8 +154,6 @@ API REST para cadastro e gerenciamento de clientes com endereços. Arquitetura e
 | 🐙 | Contribuindo em Projetos Open Source no GitHub (DIO) |
 
 ---
-
-
 
 <div align="center">
   <b>📬 Entre em contato</b><br/>
