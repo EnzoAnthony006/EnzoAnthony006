@@ -13,7 +13,7 @@
 
 ## 👋 Sobre
 
-Construo APIs em Java e Spring Boot que vão além do CRUD: **mensageria**, **cache**, **segurança com OAuth2/Keycloak**, **testes com Testcontainers**, **CI** e **observabilidade**. Estudo backend por conta própria desde novembro de 2025, curso Sistemas de Informação na Impacta e sou Jovem Aprendiz em TI na ACT Digital.
+Construo APIs em Java e Spring Boot que vão além do CRUD: **mensageria**, **cache**, **segurança com OAuth2/Keycloak**, **testes com Testcontainers**, **CI** e **observabilidade**. Estudo backend por conta própria desde novembro de 2025, curso Sistemas de Informação na Impacta.
 
 **🔎 Buscando minha primeira oportunidade como Estagiário ou Desenvolvedor Backend Java Jr em São Paulo (presencial, remoto ou híbrido).**
 
