@@ -1,8 +1,8 @@
 <h1 align="center">Enzo Anthony</h1>
 
 <p align="center">
-  <b>Desenvolvedor Backend Java Jr.</b><br/>
-  Spring Boot · Kafka · Redis · Docker · Testcontainers
+  <b>Backend Java Jr.</b><br/>
+  Spring Boot · Kafka · Redis · Docker
 </p>
 
 <p align="center">
@@ -13,13 +13,13 @@
 
 ## 👋 Sobre
 
-Construo APIs em Java e Spring Boot que vão além do CRUD: **mensageria**, **cache**, **segurança com OAuth2/Keycloak**, **testes com Testcontainers**, **CI** e **observabilidade**. Estudo backend por conta própria desde novembro de 2025, curso Sistemas de Informação na Impacta.
+Construo APIs em Java e Spring Boot que vão além do CRUD: **mensageria**, **cache**, **segurança com OAuth2/Keycloak**, **testes com Testcontainers**, **CI** e **observabilidade**. Estudo backend por conta própria desde novembro de 2025, curso Sistemas de Informação na Impacta e atuo como estagiário de TI.
 
-**🔎 Buscando minha primeira oportunidade como Estagiário ou Desenvolvedor Backend Java Jr em São Paulo (presencial, remoto ou híbrido).**
+**🔎 Busco minha primeira oportunidade em desenvolvimento, como Estagiário ou Desenvolvedor Backend Java Jr, em São Paulo (presencial, remoto ou híbrido).**
 
 ## 🏦 Projeto em destaque: [Cofrinhos API](https://github.com/EnzoAnthony006/cofrinhos-api)
 
-App de economia gamificada: você cria cofrinhos (metas), registra aportes e ganha XP, nível, sequência semanal e conquistas, com um **ranking que atualiza ao vivo**.
+App de economia gamificada: você cria cofrinhos (metas), registra aportes e ganha XP, nível, sequência semanal e conquistas, com um **ranking atualizado em quase tempo real**.
 
 ```mermaid
 flowchart LR
@@ -28,12 +28,12 @@ flowchart LR
     C --> D["Consumidor"]
     D --> E["XP, nível e conquistas"]
     D --> F[("Redis: ranking")]
-    F --> G["SSE ao vivo no navegador"]
+    F --> G["SSE no navegador (quase em tempo real)"]
 ```
 
 - **Arquitetura hexagonal com DDD**, com o domínio isolado de framework
 - **Kafka** para processar XP e conquistas de forma assíncrona, sem travar a API
-- **Redis** (cache e ranking em sorted set) e **WebFlux/SSE** para tempo real
+- **Redis** (cache e ranking em sorted set) e **WebFlux/SSE** para atualização contínua
 - **OAuth2 + Keycloak**, com cada usuário acessando apenas os próprios dados
 - **Mais de 80 testes** (JUnit 5, Mockito, Testcontainers), CI no GitHub Actions e traces no Jaeger
 
@@ -65,11 +65,11 @@ flowchart LR
 | Dados e mensageria | PostgreSQL, MySQL, Redis, Flyway, Kafka, RabbitMQ |
 | Segurança | OAuth2, Keycloak, JWT, Resilience4j |
 | Testes e DevOps | JUnit 5, Mockito, Testcontainers, Docker Compose, GitHub Actions, OpenTelemetry (Jaeger) |
-| Cloud | AWS (EC2, S3, RDS, Lambda, VPC, IAM), Google Cloud, fundamentos de Kubernetes |
+| Cloud | AWS (EC2, S3, RDS, VPC, IAM), Google Cloud, fundamentos de Kubernetes |
 
 ## 📚 Estudando agora
 
-gRPC e protocolos entre microsserviços · Outbox pattern · Kubernetes na prática · Logs com Loki
+gRPC e protocolos entre microsserviços · Outbox pattern · Kubernetes na prática · AWS Lambda · Logs com Loki
 
 ## 🏆 Certificações
 
